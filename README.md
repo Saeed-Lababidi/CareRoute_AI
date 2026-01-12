@@ -7,7 +7,7 @@ Built for the Saudi healthcare ecosystem, CareRoute AI aligns with Vision 2030�
 
 ---
 
-## 🧠 Problem
+## Problem
 
 In Saudi Arabia, patients often self-book appointments without medical guidance, leading to:
 
@@ -17,7 +17,7 @@ In Saudi Arabia, patients often self-book appointments without medical guidance,
 - Longer wait times  
 - Delayed or missed care  
 
-Estimates suggest that **30–40% of outpatient appointments** are booked with the wrong specialty, creating inefficiencies for patients, doctors, and hospitals :contentReference[oaicite:1]{index=1}.
+Estimates suggest that **30–40% of outpatient appointments** are booked with the wrong specialty, creating inefficiencies for patients, doctors, and hospitals
 
 ### Who Is Affected?
 
@@ -40,11 +40,11 @@ Estimates suggest that **30–40% of outpatient appointments** are booked with t
 - Symptom checkers diagnose but don’t integrate with scheduling  
 - Call centers are expensive and don’t scale  
 
-There is **no intelligent pre-appointment routing layer** in today’s systems :contentReference[oaicite:2]{index=2}.
+There is **no intelligent pre-appointment routing layer** in today’s systems
 
 ---
 
-## 💡 Solution
+## Solution
 
 ### CareRoute AI — Intelligent Pre-Appointment Routing
 
@@ -59,7 +59,7 @@ It goes beyond basic categorization by:
 - Routing to the correct sub-specialty  
 - Assessing urgency level  
 
-This ensures patients reach the right care the first time :contentReference[oaicite:3]{index=3}.
+This ensures patients reach the right care the first time
 
 ---
 
@@ -71,49 +71,17 @@ CareRoute AI is designed for the Saudi healthcare context:
 - Centralized hospital systems  
 - Vision 2030 focus on digital health  
 
-Our solution integrates naturally into existing workflows while adding an intelligent routing layer :contentReference[oaicite:4]{index=4}.
+Our solution integrates naturally into existing workflows while adding an intelligent routing layer 
 
 ---
 
-## 🎯 Value Proposition
+## Value Proposition
 
-**CareRoute AI increases healthcare efficiency by routing patients right the first time.** :contentReference[oaicite:5]{index=5}
-
----
-
-## 👤 User Journey
-
-### Persona: Ahmed Al-Harbi
-- Age: 38  
-- Occupation: Office employee  
-- City: Riyadh  
-
-#### Before
-- Feels chest discomfort  
-- Unsure which doctor to book  
-- Books incorrectly  
-- Gets referred again  
-- Delayed care  
-
-#### During
-- Chats with CareRoute AI  
-- Answers guided questions  
-- AI detects cardiac risk  
-- Routes him to cardiology  
-
-#### After
-- Faster diagnosis  
-- Correct care on first visit  
-- Less stress  
-- Optimal outcomes  
-
-Success metrics show:
-- ⬇ 60% wait time  
-- ⬆ 90% satisfaction :contentReference[oaicite:6]{index=6}
+**CareRoute AI increases healthcare efficiency by routing patients right the first time.**
 
 ---
 
-## 🤖 GenAI Innovation
+## GenAI Innovation
 
 CareRoute AI is not a chatbot—it is a **decision intelligence system**.
 
@@ -127,11 +95,11 @@ CareRoute AI is not a chatbot—it is a **decision intelligence system**.
 - Prompt engineering with medical guardrails  
 - Retrieval-Augmented Generation (RAG)  
 - Context-aware conversation memory  
-- Multimodal-ready (voice planned) :contentReference[oaicite:7]{index=7}
+- Multimodal-ready (voice planned)
 
 ---
 
-## ☁️ AWS Architecture
+## AWS Architecture
 
 CareRoute AI is built using AWS for scalability, compliance, and reliability.
 
@@ -150,11 +118,11 @@ Why AWS?
 - Enterprise-grade  
 - Scalable  
 - Secure  
-- Production-ready :contentReference[oaicite:8]{index=8}
+- Production-ready
 
 ---
 
-## 💰 Business Model
+## Business Model
 
 ### Monetization Strategy: B2B SaaS
 
@@ -178,11 +146,11 @@ Telehealth Platforms
 **ROI Logic:**
 - Wrong booking cost: SAR 300–500  
 - CareRoute AI cost: SAR 15–25  
-- Net savings: 90%+ per avoided error :contentReference[oaicite:9]{index=9}
+- Net savings: 90%+ per avoided error
 
 ---
 
-## 🌍 Vision 2030 Alignment
+## Vision 2030 Alignment
 
 CareRoute AI supports Saudi Arabia’s Vision 2030 pillars:
 
@@ -197,11 +165,11 @@ CareRoute AI supports Saudi Arabia’s Vision 2030 pillars:
 - AI leadership  
 - Local talent development  
 
-This platform can scale across all hospitals in Saudi Arabia and position KSA as a regional leader in AI healthcare :contentReference[oaicite:10]{index=10}.
+This platform can scale across all hospitals in Saudi Arabia and position KSA as a regional leader in AI healthcare
 
 ---
 
-## 📊 Impact & Metrics
+## Impact & Metrics
 
 Expected outcomes:
 
@@ -215,11 +183,11 @@ Expected outcomes:
 - Routing accuracy: 92%  
 - First-visit success: 88%  
 - Referral reduction: -35%  
-- Time-to-care: -40% :contentReference[oaicite:11]{index=11}
+- Time-to-care: -40%
 
 ---
 
-## 🔮 Future Vision
+## Future Vision
 
 CareRoute AI aims to become the **front door of Saudi healthcare**.
 
@@ -234,30 +202,24 @@ CareRoute AI aims to become the **front door of Saudi healthcare**.
 
 - Amazon Connect  
 - AWS HealthLake  
-- Real-time analytics dashboards :contentReference[oaicite:12]{index=12}
+- Real-time analytics dashboards
 
 ---
 
-## 👥 Team
+## Team
 
 **AyeEyeEngineers**
 
 - Saeed Lababidi  
 - Sulaiman Alluhaib  
-- Meer Husamuddin :contentReference[oaicite:13]{index=13}
+- Meer Husamuddin
 
 ---
 
-## 📅 Hackathon
+## Hackathon
 
 Cloud Catalyst: Saudi Tech Forum  
-January 18–19, 2026 :contentReference[oaicite:14]{index=14}
-
----
-
-## 📬 Contact
-
-careroute.ai@example.com
+January 18–19, 2026
 
 ---
 
